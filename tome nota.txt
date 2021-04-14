@@ -1,0 +1,49 @@
+Bootstrapp4: Un framework de CSS  para estilizar todo lo que diseñas en html. 
+Javascript: Como guardar datos, eliminarlos y mostrrarlos en pantalla.
+
+getbootstrap.com ---> Css enlace de html copiamos y lo mandamos al link en el <head>
+
+<nav>Sirve para mostrar una seccion de la pagina que tiene como proposito dar enlaces de navegacion ya sea dentro del documento actual como a otros documentos ( menus, tablas de contenido e indices.) 
+
+El temita de las filas: 
+Podemos dividirlo en columnas esto ya lo viste en la facu. 
+
+<div class= "row">
+
+Bootstrap divide en 12 columnas. 
+
+div class= "card" esto es de bootstrap para la tarjetita.
+
+id para todo en el form para identificarlo en el archivo de javascript. 
+
+placeholder: Esto sale atras del renglon a completar. 
+
+pading top para alejar de arriba la tarjeta el borde. 
+
+btn-block ocupa todo el ancho de la tarjeta
+
+Por defecto los formularios lo que hacen es enviar la informacion al apretar save a un servidor y refrescar la pagina. ( A esto lo vamos a cancelar con Javascritp.)
+
+Estamos en minuto 14:14 
+
+   <!--scripts-->
+    <script src="app.js"></script> con esto en el html conectaso con el javascritps
+
+Evento submit ( save) .............................................
+
+Seleccionamos elementos by id. 
+
+Metodo e.preventDefault : Esto previene el comportamiento por defecto del navegador a refescar la pagina.
+
+let es un declarador para poder empezar a definir una variable. 
+
+Localstorage: Nos permite almacenar los datos dentro de la propia memoria del navegador. Lo cerras lo abris sigue ahi la data vieja.: 
+
+localstorage.setItem() // nos permite poder almacenar un dato con 2 parametros ( nombre, valor del dato)
+
+ALT + 96 para las comillas invertidas. 
+
+
+
+
+
