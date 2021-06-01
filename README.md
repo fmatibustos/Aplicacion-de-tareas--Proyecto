@@ -1,2 +1,3 @@
-# Aplicacion de Tareas 
- Desarrollo de una aplicacion para guardar tareas pendientes. Se añade la posibilidad de eliminar las listadas. 
+Task app
+
+ Development of an application to save pending tasks. The possibility of eliminating the listed ones is added.
