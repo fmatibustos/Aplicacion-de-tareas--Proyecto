@@ -1,5 +1,9 @@
+Trabajado desde el video: https://youtu.be/Ko_S79ZGDqI
+
+
+
 Bootstrapp4: Un framework de CSS  para estilizar todo lo que diseñas en html. 
-Javascript: Como guardar datos, eliminarlos y mostrrarlos en pantalla.
+Javascript: Como guardar datos, eliminarlos y mostrarlos en pantalla.
 
 getbootstrap.com ---> Css enlace de html copiamos y lo mandamos al link en el <head>
 
